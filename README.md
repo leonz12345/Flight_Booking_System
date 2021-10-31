@@ -6,7 +6,14 @@ This is a flight booking service database application with user management and b
 
 <p align="center">
  <img width="759" height="422" src="https://github.com/leonz12345/Flight_Booking_System/blob/master/Cover.PNG">
-![Cover_Page](https://github.com/leonz12345/Flight_Booking_System/blob/master/Cover.PNG?raw=true)
 </p>
 
+## Tools Used
+- Java
+- SQL
+- JBDM
+- Azure for database hosting
+
 ## Skills Used
+- Database application development
+- Transaction management
