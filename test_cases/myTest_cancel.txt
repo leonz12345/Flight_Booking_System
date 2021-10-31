@@ -1,0 +1,14 @@
+# Trying to cancel without login
+#
+# user 1
+search "Kahului HI" "Los Angeles CA" 0 1 1
+cancel 1
+quit
+*
+#
+# expected printouts for user 1
+Itinerary 0: 1 flight(s), 288 minutes
+ID: 280 Day: 1 Carrier: AA Number: 14 Origin: Kahului HI Dest: Los Angeles CA Duration: 288 Capacity: 18 Price: 598
+Cannot cancel reservations, not logged in
+Goodbye
+*

@@ -1,0 +1,13 @@
+#
+# Attempt to login use fake username
+#
+# user 1's commands
+login user1 user1
+quit
+*  #  a single * in the beginning separates commands and expected results
+#
+# expected printouts for user 1
+#
+Login failed
+Goodbye
+*

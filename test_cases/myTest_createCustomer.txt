@@ -1,0 +1,8 @@
+# Attempt to create user but negative initAmount
+create user1 user1 -10000
+quit
+*
+# Should return failed to create user1
+Failed to create user
+Goodbye
+*
